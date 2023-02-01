@@ -52,6 +52,7 @@ Run Command
 ```
 flask --debug run
 ```
+Copy the provided link and paste it in the browser. Enjoy the project
 
 ## Attendance Excel File Data Format
 In "Some Demo Attendance Files" Folder some files are given as sample of attendance data.
