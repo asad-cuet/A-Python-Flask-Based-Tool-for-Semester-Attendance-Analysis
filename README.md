@@ -6,12 +6,12 @@ It takes attendance of all student in excel file for every course in a semester.
 ## Setup
 
 1.
-Create folder where you will clone this project:
+Create a folder where you will clone this project:
 
 2.
 Clone this project:
 ```
-git clonehttps://github.com/asad-cuet/laravel-installer.git
+git clone https://github.com/asad-cuet/laravel-installer.git
 ```
 
 3.
@@ -52,4 +52,4 @@ flask --debug run
 
 ## Attendance Excel File Data Format
 In "Some Demo Attendance Files" Folder some files are given as sample of attendance data.
-You can use these files for testing project.
+You can use these files for testing the project.
