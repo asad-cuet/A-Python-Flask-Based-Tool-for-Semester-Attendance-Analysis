@@ -21,13 +21,13 @@ git clone https://github.com/asad-cuet/Attendance-Project-By-Python-V2.git
 Install Python
 
 5.
-Install virual environment
+Install virtual environment
 ```
 pip install virtualenv
 ```
 
 6.
-Activate virual environment
+Activate virtual environment
 ```
 virtual_env\Scripts\activate
 ```
