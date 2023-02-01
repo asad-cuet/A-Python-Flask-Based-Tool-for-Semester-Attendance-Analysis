@@ -14,7 +14,7 @@ Open cmd in the created folder path and run below command
 3.
 Clone this project:
 ```
-git clone https://github.com/asad-cuet/Attendance-Project-By-Python-V2.git
+git clone https://github.com/asad-cuet/A-Python-Based-Tool-for-Semester-Attendance-Analysis.git
 ```
 
 4.
