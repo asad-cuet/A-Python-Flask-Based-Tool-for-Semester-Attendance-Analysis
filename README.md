@@ -6,36 +6,39 @@ It takes attendance of all student in excel file for every course in a semester.
 ## Setup
 
 1.
-Create a folder where you will clone this project:
+Create a folder where you will clone this project
 
 2.
+Open cmd in the created folder path and run below command
+
+3.
 Clone this project:
 ```
 git clone https://github.com/asad-cuet/Attendance-Project-By-Python-V2.git
 ```
 
-3.
+4.
 Install Python
 
-4.
+5.
 Install virual environment
 ```
 pip install virtualenv
 ```
 
-4.
+6.
 Activate virual environment
 ```
 virtual_env\Scripts\activate
 ```
 
-4.
+7.
 Install Flask
 ```
 pip install Flask
 ```
 
-4.
+8.
 Install module used in this project
 ```
 pip install pandas
