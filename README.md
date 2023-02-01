@@ -11,7 +11,7 @@ Create a folder where you will clone this project:
 2.
 Clone this project:
 ```
-git clone https://github.com/asad-cuet/laravel-installer.git
+git clone https://github.com/asad-cuet/Attendance-Project-By-Python-V2.git
 ```
 
 3.
