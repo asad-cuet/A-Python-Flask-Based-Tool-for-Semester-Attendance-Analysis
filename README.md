@@ -1,4 +1,4 @@
-# A Python-based Tool for Semester Attendance Analysis
+# A Python-Flask-Based-Tool-for-Semester-Attendance-Analysis
 
 This is a Web tools for analysis student attendance of a semester using Flask Web Framework. 
 It takes attendance of all student in excel file for every course in a semester. Then one can see a specific student attendance analysis by putting student id as input
