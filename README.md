@@ -14,12 +14,12 @@ Open cmd in the created folder path and run below command
 3.
 Clone this project:
 ```
-git clone https://github.com/asad-cuet/A-Python-Based-Tool-for-Semester-Attendance-Analysis.git
+git clone https://github.com/asad-cuet/A-Python-Flask-Based-Tool-for-Semester-Attendance-Analysis.git
 ```
 
 4.
 ```
-cd A-Python-Based-Tool-for-Semester-Attendance-Analysis
+cd A-Python-Flask-Based-Tool-for-Semester-Attendance-Analysis
 ```
 
 5.
